@@ -9,7 +9,7 @@ Source: https://github.com/jagrit007/Telegram-CloneBot
 **အထူးသတိပြုရန်**
 Service Acc သုံးပါက Source Drive နှင့် ကူးမည့်မိမိShareDrive တိုတွင် googlegroup mail ကို contributor အဖြစ် add ထားမှ ကူးလိုရမှာပါ။ addနည်းကို ဒီမှာကြည့်ပါ။https://tiny.one/dwtykxca
 
-# ဘယ်လိုSetUp လုပ်ရမလဲ?
+# ဘယ်လိုSetUp လုပ်ရမလဲ? ၁။ www.koyeb.com  (အကောင့်ဖွင့်လျှင် Cc or Card ထည့်ရပါတယ်။ Charges free)
 
 ပထမဆုံး https://app.koyeb.com မှာအရင် အကောင့်ဖွင့်ပါ။ ဖွင့်ပြီးသားဆို login ဝင်ထားပါ။
 Dockerfile ထဲမှ image name ကူးပါ။
@@ -39,5 +39,12 @@ ZIP.zip ဖိုင်ကို မိမိ google drive ရှိ mydrive တ
 **ထို vars 3ခု ဖြည့်ပြီး လျှင် အောက်နားရှိ port နေရာတွင် 8080 ကို 80 ဟုပြင်ပါ။
 
 ပြီးလျှင် koyeb deploy process ဆက်သွားပါ။
+
+# Render တွင် free host သုံးမယ်
+
+heroku ေနာက်ပိုင်း free ရတဲ့ အဆင်ပြေတဲ့ service ပါ။
+mail တစ်ခုရှိရင် အကောင့်ဖွင့်လို့ရပါပြီ။ Card မလိုပါ။
+
+deploy guide : [Click Here](https://telegra.ph/DeployGcloneonRender-01-12)
 
 မေးမြန်းလိုသည်များရှိလျှင် https://t.me/drivetalk သို့ လာခဲ့ပါ။
