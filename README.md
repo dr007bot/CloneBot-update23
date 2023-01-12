@@ -12,7 +12,7 @@ Service Acc သုံးပါက Source Drive နှင့် ကူးမည�
 # ဘယ်လိုSetUp လုပ်ရမလဲ? ၁။ www.koyeb.com  (အကောင့်ဖွင့်လျှင် Cc or Card ထည့်ရပါတယ်။ Charges free)
 
 ပထမဆုံး https://app.koyeb.com မှာအရင် အကောင့်ဖွင့်ပါ။ ဖွင့်ပြီးသားဆို login ဝင်ထားပါ။
-Dockerfile ထဲမှ image name ကူးပါ။
+Koyeb တွင် deploy လျှင် ဒီimage နှင့်လုပ်ပါ
 
 anasaty17/gclone:public     ဒါကိုကူးပြီး လုပ်ရမှာပါ။
 
