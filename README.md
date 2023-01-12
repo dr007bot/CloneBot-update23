@@ -14,7 +14,7 @@ Service Acc သုံးပါက Source Drive နှင့် ကူးမည�
 ပထမဆုံး https://app.koyeb.com မှာအရင် အကောင့်ဖွင့်ပါ။ ဖွင့်ပြီးသားဆို login ဝင်ထားပါ။
 Dockerfile ထဲမှ image name ကူးပါ။
 
-anasaty17/gclone:public
+anasaty17/gclone:public     ဒါကိုကူးပြီး လုပ်ရမှာပါ။
 
 
 Koyeb တွင် github source ဖြင့်မလုပ်ပဲ Docker image ဖြင့်လုပ်ပါ။
