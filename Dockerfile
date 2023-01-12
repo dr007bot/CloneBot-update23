@@ -1,1 +1,1 @@
-FROM anasaty17/gclone:public
+FROM anasaty17/gclone:publicRender
