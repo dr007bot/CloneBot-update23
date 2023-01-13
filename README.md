@@ -51,4 +51,4 @@ mail တစ်ခုရှိရင် အကောင့်ဖွင့်လ�
 
 deploy guide : [Click Here](https://telegra.ph/DeployGcloneonRender-01-12)
 
-မေးမြန်းလိုသည်များရှိလျှင် https://t.me/🅳🆁🅸🆅🅴🆃🅰🅻🅺 သို့ လာခဲ့ပါ။
+မေးမြန်းလိုသည်များရှိလျှင် [🅳🆁🅸🆅🅴🆃🅰🅻🅺](https://t.me/drivetalk) သို့ လာခဲ့ပါ။
