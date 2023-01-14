@@ -14,7 +14,9 @@ Service Acc သုံးပါက Source Drive နှင့် ကူးမည�
 ပထမဆုံး https://app.koyeb.com မှာအရင် အကောင့်ဖွင့်ပါ။ ဖွင့်ပြီးသားဆို login ဝင်ထားပါ။
 Koyeb တွင် deploy လျှင် ဒီimage နှင့်လုပ်ပါ
 
-anasaty17/gclone:public     ဒါကိုကူးပြီး လုပ်ရမှာပါ။
+**anasaty17/gclone:public   
+
+ဒါကိုကူးပြီး လုပ်ရမှာပါ။
 
 
 Koyeb တွင် github source ဖြင့်မလုပ်ပဲ Docker image ဖြင့်လုပ်ပါ။
@@ -26,13 +28,13 @@ Env Vars ၃ ခုဖြည့်ရပါမယ် စာလုံးမှာ
 - ZIP                   -(Plaintext)-         https://www.~~~~~~~/ZIP.zip ထည့်ရန်
   
 
-# ZIP varriable ဘယ်လိုလုပ်ရမလဲ
+# ZIP variable ဘယ်လိုလုပ်ရမလဲ
 
 Service accounts သုံးမယ်ဆိုလျှင် (0-99.json) ဖိုင်များပါသော ၁။ accounts ဖိုလ်ဒါ  
 ၂။ token.pickle ဖိုင်
 ၃။ credentials.json ဖိုင်
 
-ဒီ 3ခု (folder 1 + files 2) ကို select ပြီး zip ပါ။ Name ကို ⭐ ZIP.zip  လို့ပေးပါ။ တခြားနာမည်ဆို Bot က မဖတ်ပါ။
+ဒီ 3ခု (folder 1 + files 2) ကို select ပြီး zip ပါ။ Name ကို  **ZIP.zip လို့ပေးပါ။ တခြားနာမည်ဆို Bot က မဖတ်ပါ။
 
 ZIP.zip ဖိုင်ကို မိမိ google drive ရှိ mydrive တွင်တင်ပါ။
 ထို ဖိုင်ကို " share with anyone with link " ဖြင့် share link ယူပါ။
