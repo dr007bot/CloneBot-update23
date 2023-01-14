@@ -1,0 +1,3 @@
+BOT_TOKEN             -(Plaintext)     - https://t.me/BotFather မှ token ထည့်ပါ
+USE_SERVICE_ACCOUNTS  -(Plaintext)     - True သို့မဟုတ် False ထည့်ရန်။ SA ပါလျှင် True
+ZIP                   -(Plaintext)     - https://www.~~~~~~~/ZIP.zip
