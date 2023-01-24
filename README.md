@@ -55,6 +55,6 @@ deploy guide : [Click Here](https://telegra.ph/DeployGcloneonRender-01-12)
 
 ## Heroku Deploy ရန်
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/dr007bot/CloneBot-update23/tree/heroku)
+ [ဒီrepo](https://github.com/jagrit007/Telegram-CloneBot)ကို fork ပြီး token.pickle, credentials.json, Accounts folder များတင်ပြီး heroku deployပါ
 
 မေးမြန်းလိုသည်များရှိလျှင် [🅳🆁🅸🆅🅴🆃🅰🅻🅺](https://t.me/drivetalk) သို့ လာခဲ့ပါ။
