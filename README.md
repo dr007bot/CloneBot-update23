@@ -55,7 +55,7 @@ deploy guide : [Click Here](https://telegra.ph/DeployGcloneonRender-01-12)
 
 ## Heroku Deploy ရန်
 
-Heroku Branch မှလုပ်ရန်
+[Heroku Branch](https://github.com/dr007bot/CloneBot-update23/tree/heroku) မှလုပ်ရန်
 
 
 
