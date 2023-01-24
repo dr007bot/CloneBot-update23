@@ -1,0 +1,36 @@
+{
+  "name": "CloneBot 2023",
+  "description": "for edu purpose only",
+  "logo": "",
+  "keywords": [
+    "telegram",
+    "clone",
+    "google drive",
+    "clone bot"
+  ],
+  "repository": "https://github.com",
+  "website":   "https://github.com",
+  "success_url": "https://t.me",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "ဒါက မိမိ လုပ်မဲ့ bot ရဲ့ token နံပါတ်ပါ။ https://t.me/BotFather ကိုနှိပ်ပြီး /newbot ရိုက်။ ကျလာတဲ့ စာမှာ မိမိသုံးမဲ့ name ပေး (ဥပမာ  mybot007) ပြီးရင်စာတခုထပ်ကျမယ်။ အဲ့အောက်မှာ ခုဏနာမည်ကို bot တပ်ပြီး ထပ်ရိုက် (ဥပမာ mybot007bot) ဒီနာမည်ရရင် ကုဒ်ကျလာမယ်။ sorry ပြရင် နာမည်ပြောင်းထပ်ရိုက် (ဥပမာ mybot007008bot) အဲ့လိုနဲ့ Done. Congratulations ပြရင် token code ကျမယ်။ ကူးလာပါ။ ဘယ်နေရာကုဒ်ကူးရမလဲဆိုတော့ Use this token to access the HTTP API: နဲ့ Keep your token ကြားကကုဒ်ပါ။ (ဥပမာ Use this token to access the HTTP API:    123456789:AAFFlHz5RgH_abcdefghi_jklmnopqrstg     keep your token secure) ဒီဥပမာအရ 123456789:AAFFlHz5RgH_abcdefghi_jklmnopqrstg ဆိုတဲ့ဟာက ကုဒ်ပါ။ Bot_Tokenမှာဒါဖြည့်ပါ။",
+      "value": "",
+      "required": true
+    },
+    "USE_SERVICE_ACCOUNTS": {
+      "description": "SA သုံးရင် True မသုံးရင် False",
+      "value": "",
+      "required": true
+  
+    },
+    "ZIP": {
+      "description": "gist.gitubusercontent~~~~~ZIP.zip link ထည့်ပါ။",
+      "value": "",
+      "required": true
+    }
+    
+  },
+  "buildpacks": [{
+    "url": "heroku/python"
+  }]
+}
