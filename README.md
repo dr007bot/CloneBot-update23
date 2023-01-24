@@ -53,8 +53,6 @@ mail တစ်ခုရှိရင် အကောင့်ဖွင့်လ�
 
 deploy guide : [Click Here](https://telegra.ph/DeployGcloneonRender-01-12)
 
-## Heroku Deploy ရန်
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/dr007bot/CloneBot-update23)
 
 မေးမြန်းလိုသည်များရှိလျှင် [🅳🆁🅸🆅🅴🆃🅰🅻🅺](https://t.me/drivetalk) သို့ လာခဲ့ပါ။
