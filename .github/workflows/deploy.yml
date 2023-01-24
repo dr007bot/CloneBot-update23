@@ -17,4 +17,6 @@ jobs:
           stack: "container"
           region: "us"
         env:
-          HD_CONFIG_FILE_URL: ${{secrets.CONFIG_FILE_URL}}
+          HD_BOT_TOKEN: ${{secrets.BOT_TOKEN}}
+          HD_USE_SERVICE_ACCOUNTS: ${{secrets.USE_SERVICE_ACCOUNTS}}
+          HD_ZIP: ${{secrets.ZIP}}
